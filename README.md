@@ -7,7 +7,7 @@ The DAIRIEES model provides a way to estimate greenhouse gas emissions reduction
 
 Annually, the dairy industry in the United States creates an estimated 249 billion tons of wet manure and 5.8 billion kg of carbon dioxide equivalents. Manure management accounts for nearly half of the greenhouse gas (GHG) emissions in the dairy industry and for about 6% of the total GHG emission from the agriculture sector in the United States. In 2009, the Innovation Center for U.S. Dairy announced a voluntary goal to reduce GHG emissions by 25 percent in 2020.
 
-Manure management is also a major concern for individual dairies because the average lactating cow produces about 150 pounds of manure per day. In Idaho, for example, the average dairy has 660 cows, meaning it handles over 18,000 tons of manure annually.5 Manure is conventionally stored in lagoons or open ponds because of the ease of operation and low costs, but these raise concerns about odor control, water quality and GHG emissions.
+Manure management is also a major concern for individual dairies because the average lactating cow produces about 150 pounds of manure per day. In Idaho, for example, the average dairy has 660 cows, meaning it handles over 18,000 tons of manure annually. Manure is conventionally stored in lagoons or open ponds because of the ease of operation and low costs, but these raise concerns about odor control, water quality and GHG emissions.
 
 This new manure treatment system provides a way to improve the environmental sustainability of dairies and produce marketable by-products including:
 
